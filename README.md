@@ -37,4 +37,4 @@ Professionally designed layout for clarity and quick insight discovery
 
 6️⃣ Screenshots / Demos
 
-[Dashboard Preview](https://github.com/manugupta123923/online-course-analysis/blob/main/snapshot%20of%20dashboard.png)
+![Dashboard Preview](https://github.com/manugupta123923/online-course-analysis/blob/main/snapshot%20of%20dashboard.png)
